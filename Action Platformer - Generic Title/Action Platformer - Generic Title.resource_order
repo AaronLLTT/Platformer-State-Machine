@@ -1,0 +1,10 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Elf Archer Misc","order":1,"path":"folders/Sprites/Elf Archer Misc.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Archer Assets","order":1,"path":"notes/Archer Assets/Archer Assets.yy",},
+    {"name":"objArcherArrow","order":2,"path":"objects/objArcherArrow/objArcherArrow.yy",},
+    {"name":"objBlock","order":1,"path":"objects/objBlock/objBlock.yy",},
+  ],
+}
